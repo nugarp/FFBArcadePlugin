@@ -1,6 +1,6 @@
 # FFB Arcade Plugin
 
-Brought to you by Boomslangnz, Ducon2016, Spazzy, Adam_, jpb & pinkimo.
+Brought to you by Boomslangnz, Ducon2016, Spazzy, Adam_, jpb & pinkimo. Test.
 
 This is a plugin to provide Force Feedback and Rumble to various arcade games.
 
